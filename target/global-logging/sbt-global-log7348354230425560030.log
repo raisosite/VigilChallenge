@@ -1,0 +1,11 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\dafonser\source\service\untitled1\target\scala-2.13\classes ...
+[info] done compiling
+[warn] In the last 9 seconds, 5.161 (60.9%) were spent in GC. [Heap: 0.99GB free of 2.14GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 6.441 (67.2%) were spent in GC. [Heap: 1.08GB free of 3.60GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 6.006 (66.2%) were spent in GC. [Heap: 0.16GB free of 4.00GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 40 seconds, 9.417 (23.6%) were spent in GC. [Heap: 0.13GB free of 4.00GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 11 seconds, 9.284 (89.4%) were spent in GC. [Heap: 0.01GB free of 4.00GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
+[warn] In the last 10 seconds, 9.243 (99.7%) were spent in GC. [Heap: 0.00GB free of 4.00GB, max 4.00GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.
